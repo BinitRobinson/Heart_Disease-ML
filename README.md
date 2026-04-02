@@ -145,17 +145,10 @@ Steps:
 
 ---
 
-
-## 📜 License
-
-This project is open-source and available under the **MIT License**.
-
----
-
 ## 💡 Author
 
 👤 Binit Robinson Kachhap
-📧 https://www.linkedin.com/in/binit-robinson-kachhap-808852380/
+📧 **https://www.linkedin.com/in/binit-robinson-kachhap-808852380/**
 
 ---
 
