@@ -10,7 +10,7 @@ This project includes **data analysis, model building, evaluation, and deploymen
 
 ## 🚀 Live Demo
 
-👉 *(Add your Streamlit link here after deployment)*
+👉 *https://heart-disease-0.streamlit.app/*
 
 ---
 
