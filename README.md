@@ -136,14 +136,6 @@ Steps:
 
 ---
 
-## 📈 Future Improvements
-
-* 🔬 Use advanced models (XGBoost, Random Forest)
-* 📊 Add more visual analytics
-* 🔐 User authentication system
-* ☁️ Cloud database integration
-
----
 
 ## 💡 Author
 
